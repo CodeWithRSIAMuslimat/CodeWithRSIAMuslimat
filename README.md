@@ -20,7 +20,6 @@ More projects will be added soon to enhance hospital management, patient care, a
 We use a variety of technologies to support our projects, including:
 
 - 🐘 PHP (Laravel / CodeIgniter)
-- 🐍 Python (Flask / FastAPI)
 - 🛢️ MySQL / PostgreSQL
 - ☁️ Cloud-based deployment and hosting
 - 🔐 Focus on secure healthcare data management
